@@ -8,7 +8,7 @@ The group is alive now. And zhuzhu quit it because some people will insult him w
 
 They will say something like: Pure passerby, is this xql?(纯路人，这是xql吗？ in chinese)
 
-About something called 'xql', it is a word that unique to a chinese-internet. You can look up it in a chinese search engine. 
+About something called 'xql', it is a word that unique to chinese-internet. You can look up it in a chinese search engine. 
 
 Their friendship became grater and zhuzhu thought taromaru is his best friend than ever because zhuzhu thought he only had two friends in his junior high and they grew friendships and spent times more than the other friend.
 
