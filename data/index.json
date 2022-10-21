@@ -211,7 +211,7 @@
   "CDN路径": "https://unpkg.com",
   "启用自定义CSS": true,
   "启用自定义JS": true,
-  "自定义CSS": "",
+  "自定义CSS": "html {\n -webkit-filter: grayscale(100%);\nfilter: grayscale(100%);\n}",
   "自定义JS": "",
   "文章列表中每页的文章数为": "10",
   "全站内容授权协议": "reserved",
